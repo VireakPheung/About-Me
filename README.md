@@ -22,9 +22,10 @@ I enjoy building projects, learning new technologies, and solving programming pr
 - Git & GitHub
 
 ## Projects
-- Android UI Demo Application
-- Android User API Application
-- Kotlin Bank Account Management System
+
+- [Android UI Demo Application](https://github.com/VireakPheung/MyFirstApplicationForDemo)
+- Android Development Practice Project (https://github.com/VireakPheung/MyApplicationBackup)
+- Kotlin Bank Account Management System ()
 
 ## Connect with me
 - GitHub: https://github.com/VireakPheung
